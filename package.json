@@ -1,0 +1,32 @@
+{
+  "name": "number-one-hundred",
+  "version": "1.0.0",
+  "description": "It returns 100.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBITLINK/number-one-hundred.git"
+  },
+  "keywords": [
+    "buzz",
+    "fizz",
+    "number-one-hundred",
+    "100",
+    "number",
+    "one",
+    "hundred"
+  ],
+  "author": "thebit.link <me@thebitlink.com> (https://thebit.link/)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBITLINK/number-one-hundred/issues"
+  },
+  "homepage": "https://github.com/TheBITLINK/number-one-hundred#readme",
+  "dependencies": {
+    "assert": "^1.3.0",
+    "mocha": "^2.4.5"
+  }
+}
